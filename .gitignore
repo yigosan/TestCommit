@@ -17,7 +17,8 @@ Thumbs.db
 *.cache
 *.ilk
 *.log
-bin/TestCommit*
+TestCommit/bin/TestCommit.dll
+TestCommit/bin/TestCommit.pdb
 [Dd]ebug*/
 *.lib
 *.sbr
