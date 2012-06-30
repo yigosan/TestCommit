@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
+         I have added some text to WebForm3 from the master.
     </div>
     </form>
 </body>
