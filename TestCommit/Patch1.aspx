@@ -11,7 +11,7 @@
     <div>
         Here is the line commited.
                 Adding some stuff here.
-                I was doing some stuff here.
+                I decided to completely remove code from local and rmote. here is my new line.
     </div>
     </form>
 </body>
