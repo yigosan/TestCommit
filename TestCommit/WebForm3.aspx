@@ -9,7 +9,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        I added some stuff to WebForm3 on v2 branch.
+         I have added some text to WebForm3 from the master.
+         And here is some stuff extra manually
     </div>
     </form>
 </body>
