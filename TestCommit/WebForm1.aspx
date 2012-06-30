@@ -8,8 +8,9 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
-        Here is version 1 starts.
+<div>
+   Here is the final after merged.
+        You master rules!fddf
     </div>
     </form>
 </body>
