@@ -11,6 +11,7 @@
     <div>
         Here is the line commited.
                 Adding some stuff here.
+                I was doing some stuff here.
     </div>
     </form>
 </body>
