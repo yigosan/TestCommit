@@ -18,7 +18,8 @@ NOW I MAKE A CHANGE ON GITHUB, to see if git diff will pick it up on local. (wit
     This is a third line from I5A before pulling the merged commit.
     Added a line from yigovo.
 
-    Now comes a line from I5A
+    Now comes a line from I5A.
+    This is a stash line from I5A after local commit.
     </div>
     </form>
 </body>
