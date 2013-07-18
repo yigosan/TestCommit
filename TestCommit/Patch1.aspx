@@ -14,6 +14,7 @@
                 I decided to completely remove code from local and rmote. here is my new line.
 NOW I MAKE A CHANGE ON GITHUB, to see if git diff will pick it up on local. (without git fetch).
     I5A added this line.
+    This is a third line from I5A before pulling the merged commit.
     </div>
     </form>
 </body>
