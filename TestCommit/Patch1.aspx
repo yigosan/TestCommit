@@ -16,7 +16,9 @@ NOW I MAKE A CHANGE ON GITHUB, to see if git diff will pick it up on local. (wit
     Added a line from Yigovo.
     I5A added this line.
     This is a third line from I5A before pulling the merged commit.
-    Added a line from yigovo
+    Added a line from yigovo.
+
+    Now comes a line from I5A
     </div>
     </form>
 </body>
