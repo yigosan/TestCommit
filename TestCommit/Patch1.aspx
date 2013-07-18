@@ -13,6 +13,7 @@
                 Adding some stuff here.
                 I decided to completely remove code from local and rmote. here is my new line.
 NOW I MAKE A CHANGE ON GITHUB, to see if git diff will pick it up on local. (without git fetch).
+    I5A added this line.
     </div>
     </form>
 </body>
